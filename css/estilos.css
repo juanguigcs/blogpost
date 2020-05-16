@@ -51,6 +51,11 @@ body
     padding: 1em;
 }
 
+#img
+{
+    padding-left: 20%;
+}
+
 #footer
 {
     background: burlywood;
